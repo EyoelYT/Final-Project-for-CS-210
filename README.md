@@ -2,7 +2,7 @@
 
 This was my final project for CS 210 course
 
-My project would read a file that has a grocery list
+My project reads a file that has a grocery list
   It reveals how many of a particular item has been purchased on that day based on an input command
   It reveals all items purchased during that day on a histogram
   
